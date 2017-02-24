@@ -4,6 +4,7 @@ This is the course project for the Getting and Cleaning Data.
 
 run_analysis.R explanation
 
+0. download and extract files
 1. load activities and feature
 2. filter features, only mean and std features are selected
 3. load training data set
